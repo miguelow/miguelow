@@ -3,7 +3,7 @@
 
 const miguel = {
  
- pronouns: he
+
  
  }
 <!--
