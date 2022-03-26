@@ -8,7 +8,7 @@
 | :-------- | :------- |  
 | HTML  | Express | 
 | CSS | Node | 
-| JavaScript | 
+| JavaScript | Mongo & Mongoose |
 | React | Axios | 
 
 <h3>Where to find me</h3>
