@@ -1,4 +1,4 @@
-# <img src="https://media1.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e474itcn59xz9gw44lphea8dn5dop3x61ldsk6h9u0s&rid=giphy.gif&ct=g" width="100px">
+# <img src="https://media3.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47m6lh7x1yn5k2g7osflpev8x2400i8vr2mir973h4&rid=giphy.gif&ct=g" width="100px">
 
 ## I'm Miguel a Junior Developer based in Madrid 🇪🇸
 
