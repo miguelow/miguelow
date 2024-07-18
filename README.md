@@ -1,6 +1,6 @@
 # <img src="https://media4.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47m6lh7x1yn5k2g7osflpev8x2400i8vr2mir973h4&rid=giphy.gif&ct=g" width="100px">
 
-## I'm Miguel Fullstack Developer based in Madrid 🇪🇸
+## I'm Miguel Developer based in Madrid 🇪🇸
 
 **The tech I use  most:**
 
